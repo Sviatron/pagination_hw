@@ -1,0 +1,17 @@
+.photos-list {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.photos-btn {
+  width: 100%;
+  background-color: blue;
+
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
